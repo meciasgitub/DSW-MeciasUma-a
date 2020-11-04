@@ -1,0 +1,42 @@
+
+.mt-4{
+    color: #F47920;
+}
+.conceptos{
+    
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-family:verdana;
+  
+  color:#43C7F4;
+  text-shadow: 1px  0px 0px black,
+               0px  1px 0px black,
+              -1px  0px 0px black,
+               0px -1px 0px black;
+
+}
+.container{
+    background: -webkit-linear-gradient(#333333,#838383, #808080, white);
+   background: -moz-linear-gradient(#333333,#838383, #808080, white);
+   background: -o-linear-gradient(#333333,#838383, #808080, white);
+}
+
+.collapse navbar-collapse{
+    color: blue;
+}
+.cuerpo{
+    background-color: #005883;
+}
+.paso{
+    color: tomato;
+}
+.botonc{
+    background-color: yellow;
+}
+.card-link{
+    color: tomato;
+}
+.sub{
+    color: #F47920;
+}
